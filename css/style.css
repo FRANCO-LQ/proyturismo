@@ -1,0 +1,21 @@
+*
+{
+    margin: 80px;
+}
+body
+{
+    background-color: rgb(108, 108, 214);
+    color: yellow;
+    font-family: Cambria;
+}
+img
+{
+    width: 200px;
+    height: 200px;
+}
+p
+{
+    background-color: turquoise;
+    margin: 5px;
+    padding: 5px;
+}
